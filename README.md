@@ -2,7 +2,7 @@
 - I’m interested in web and game development, wrangling and visualizing data
 - I’m currently learning frontend dev stack with roadmap.sh, awwwards and other helpful resources
 - I have a master's degree in Computer Science/Information Technologies (formerly "Computers, complexes, systems and networks") from <a href="https://en.wikipedia.org/wiki/Higher_School_of_Economics">National Research University Higher School of Economics</a>
-- I'm currently working as freelance data engineer
+- I'm currently working as senior QA engineer
 - How to reach me: [via LinkedIn](https://www.linkedin.com/in/nikokolesnichenko/) or email niko.kolesnichenko@gmail.com.
 
 ### My Tech Stack
